@@ -26,3 +26,7 @@ a {
     font-size: 16px;
     text-decoration: underline;
 }
+
+footer {
+    text-align: right !important;
+}
